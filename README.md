@@ -1,2 +1,2 @@
-# ThatOneStudentKid.github.io
+# thatonestudentkid.github.io
 ## This reposotory is created for educational purposes only. Thanks for understanding!
